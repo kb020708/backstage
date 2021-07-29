@@ -1,21 +1,13 @@
-# myvue01
+#电商后台管理系统
+这是一个 电商后台管理系统 
+账号 admin
+密码 123456  
+仅供测试
 
-> A Vue.js project
+操作展示 
+下载文件 
+src文件下运行cmd
 
-## Build Setup
+cnpm run dev
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+展示
